@@ -1,0 +1,29 @@
+body{
+    background-color:  #fcb900;
+}
+h3{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.btn{
+    width: 140px;
+    height: 60px;
+    background-color: #fcb900;
+    align-items: center;
+    margin-left: 300px;
+    margin-top: 400px;
+    border-radius:8px ;
+    border-color:  white;
+    font-size: 24px;
+    color: white;
+    border-style: solid;
+    cursor: pointer;
+}
+.btn:hover{
+    opacity: 1;  
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.8);
+    font-weight: bold;
+    font-size: 27px;
+    background-color: #f4b302 ;
+   }
